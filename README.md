@@ -4,7 +4,7 @@ An interactive browser-based space exploration game page built with Three.js. Yo
 
 ## Play Online
 
-Click here to play:
+Click here to Explore:
 [https://amansharmadev.github.io/space-explorer/](https://amansharmadev.github.io/space-explorer/)
 
 ## Highlights
