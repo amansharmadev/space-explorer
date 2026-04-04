@@ -1,6 +1,6 @@
 # Space Explorer
 
-An interactive browser-based space exploration game page built with Three.js. You start near Earth in our solar system, pilot an India-inspired spaceship in third-person view, and travel freely across a galaxy filled with stars, nebulae, solar systems, distant galaxies, and constellations.
+An interactive browser-based space exploration game page built with Three.js. You start near Earth in our solar system, pilot an India's spaceship in third-person view, and travel freely across a galaxy filled with stars, nebulae, solar systems, distant galaxies, and constellations.
 
 ## Play Online
 
